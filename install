@@ -1,12 +1,12 @@
 #!/bin/sh
 
 # Git
-ln -sf ~/dotfiles/.config/git/ ~/.config
+ln -sf ~/dotfiles-min/.config/git/ ~/.config
 
 # Vim
-ln -sf ~/dotfiles/.config/vim/ ~/.config
+ln -sf ~/dotfiles-min/.config/vim/ ~/.config
 
 # Neovim
-ln -sf ~/dotfiles/.config/nvim/ ~/.config
+ln -sf ~/dotfiles-min/.config/nvim/ ~/.config
 
 echo "Done!"
