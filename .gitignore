@@ -1,0 +1,23 @@
+*
+*/
+!*/
+
+# git
+!README.md
+!.gitignore
+!.config/git/ignore
+
+# Setup files
+!install
+
+# Editor
+!.editorconfig
+!.prettierrc
+!.prettierignore
+
+# Vim
+!.config/vim/init.vim
+
+# Neovim
+!.config/nvim/init.lua
+!.config/nvim/lua/*
