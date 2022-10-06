@@ -1,13 +1,13 @@
 #!/bin/sh
 
 # Git
-mes "Git"
+echo "Git"
 ln -sf ~/dotfiles/.config/git/ ~/.config
 
 # Vim
-mes "Vim"
+echo "Vim"
 ln -sf ~/dotfiles/.config/vim/ ~/.config
 
 # Neovim
-mes "Neovim"
+echo "Neovim"
 ln -sf ~/dotfiles/.config/nvim/ ~/.config
