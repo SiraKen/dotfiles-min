@@ -9,4 +9,7 @@ ln -sf ~/dotfiles-min/.config/vim/ ~/.config
 # Neovim
 ln -sf ~/dotfiles-min/.config/nvim/ ~/.config
 
+# Fish
+ln -sf ~/dotfiles-min/.config/fish/ ~/.config
+
 echo "Done!"
