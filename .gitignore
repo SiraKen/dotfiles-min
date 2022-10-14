@@ -9,6 +9,7 @@
 
 # Setup files
 !install
+!setup
 
 # Editor
 !.editorconfig
