@@ -4,12 +4,10 @@
 ln -sf ~/dotfiles-min/.config/git/ ~/.config
 
 # Vim
-ln -sf ~/dotfiles-min/.config/vim/ ~/.config
+ln -sf ~/dotfiles-min/.config/vim/.vimrc ~/.vimrc
 
 # Neovim
 ln -sf ~/dotfiles-min/.config/nvim/ ~/.config
 
 # Fish
 ln -sf ~/dotfiles-min/.config/fish/ ~/.config
-
-echo "Done!"

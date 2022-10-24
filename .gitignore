@@ -17,7 +17,7 @@
 !.prettierignore
 
 # Vim
-!.config/vim/init.vim
+!.config/vim/.vimrc
 
 # Neovim
 !.config/nvim/init.lua
